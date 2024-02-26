@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keval Gohil</h1>
 <h3 align="center">Code architect shaping the web with user-centric experiences.</h3>
 
-<h3 align="center">Connect with me:</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
